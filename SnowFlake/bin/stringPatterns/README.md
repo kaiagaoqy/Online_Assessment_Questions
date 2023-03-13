@@ -3,9 +3,10 @@ Given the length of a word(wordLen) and the maximum number of consecutive vowels
 
 ## Method
 Take a simple example of wordlen = 2, maxVowels = 1
-C (21+5)*21           V (5*21)
-|-|                   |
-C V (21+5)            C  (21)
+
+C (21+5)*21           V (5*21) \\
+|-|                   |        \\
+C V (21+5)            C  (21)  \\
 
 (21+5)*21 + (21*5) = 651
 
