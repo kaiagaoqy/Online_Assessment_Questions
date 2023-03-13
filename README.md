@@ -8,8 +8,8 @@ If you notice anything off or have a better idea, feel free to drop a comment!
 
 |Company|Question|
 |:---|:---|
-|SnowFlake|[1. Largest Sub Grid](SnowFlake\src\LargestSubGrid)
-||[2. PalindromicSequence](SnowFlake\src\PalindromicSequence)|
+|SnowFlake|[1. Largest Sub Grid](.\SnowFlake\src\LargestSubGrid)
+||[2. PalindromicSequence](.\SnowFlake\src\PalindromicSequence)|
 ||[3. PerfectPairs](SnowFlake\src\PerfectPairs)|
 ||[4. serverSelection](SnowFlake\src\serverSelection)|
 ||[5. stringPatterns](SnowFlake\src\stringPatterns)|
